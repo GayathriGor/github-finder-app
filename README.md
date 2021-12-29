@@ -7,4 +7,4 @@ npm install
 npm start
 ```
 ## Deployed
-Find the site here: [github-finder-app](https://github-finder-phi-sand.vercel.app)
+Find the site here: [github-finder-app](https://github-finder-app-black.vercel.app/)
